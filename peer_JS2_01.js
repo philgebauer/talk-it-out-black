@@ -83,8 +83,8 @@ while(i > 0){
   i--;
 }
 
-// runs 18 times
-// value is 37
+// runs 17 times
+// value is 36
 
 // 11. Create a function that accepts an argument 'val'. The function should convert 'val' to a String,
 // then drop the first character off the String, but only if there
@@ -102,7 +102,7 @@ function dropCharacter(val){
 // 12. Call the function.
 dropCharacter(value);
 
-// value is '7'
+// value is '6'
 
 // 13. Console log value. Create an index.html file, link the this Javascript file.
 // Load in the browser, check the value.
