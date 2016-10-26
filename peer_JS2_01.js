@@ -1,6 +1,4 @@
-
 // 1. Start with the number 35 and set that equal to 'value'
-
 var value =35;
 
 
